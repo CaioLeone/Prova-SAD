@@ -1,0 +1,160 @@
+Biblioteca (câmpus);Cód. Tipo Obra;Descrição Tipo Obra;Acervo - Total Obras;Acervo - Total de Exemplares;Aquisições - Total Obras;Aquisições - Total de Exemplares;Ano
+ Materiais on-line                      ;1              ;Livros                        ;7626           ;0              ;7616           ;0              ;2017           
+ Materiais on-line                      ;26             ;Referência                    ;1              ;0              ;               ;               ;2017           
+ Materiais on-line                      ;4              ;Artigos                       ;3              ;0              ;               ;               ;2017           
+ Materiais on-line                      ;7              ;TCC - Graduação               ;27             ;0              ;6              ;0              ;2016           
+ Materiais on-line                      ;8              ;Livro eletrônico              ;158            ;0              ;16             ;0              ;2017           
+Araraquara                              ;1              ;Livros                        ;1934           ;7538           ;518            ;865            ;2017           
+Araraquara                              ;15             ;Periódicos                    ;51             ;708            ;26             ;386            ;2017           
+Araraquara                              ;26             ;Referência                    ;12             ;58             ;0              ;0              ;2015           
+Avaré                                   ;1              ;Livros                        ;1028           ;2701           ;2              ;8              ;2016           
+Avaré                                   ;15             ;Periódicos                    ;13             ;46             ;               ;               ;2017           
+Avaré                                   ;2              ;Folhetos                      ;1              ;3              ;1              ;3              ;2017           
+Avaré                                   ;25             ;CD                            ;28             ;50             ;0              ;0              ;2015           
+Avaré                                   ;26             ;Referência                    ;1              ;3              ;0              ;0              ;2016           
+Avaré                                   ;3              ;Catálogo                      ;12             ;46             ;2              ;7              ;2017           
+Barretos                                ;15             ;Periódicos                    ;1              ;1              ;0              ;0              ;2015           
+Barretos                                ;2              ;Folhetos                      ;2              ;6              ;0              ;0              ;2016           
+Barretos                                ;26             ;Referência                    ;19             ;117            ;11             ;43             ;2017           
+Birigui                                 ;1              ;Livros                        ;2006           ;6556           ;0              ;0              ;2015           
+Birigui                                 ;10             ;TCCP - Pós-Graduação          ;1              ;1              ;               ;               ;2017           
+Birigui                                 ;11             ;Gravação de som               ;1              ;1              ;1              ;1              ;2016           
+Birigui                                 ;15             ;Periódicos                    ;41             ;686            ;0              ;0              ;2015           
+Birigui                                 ;16             ;Periódicos avulsos em bases se;1              ;7              ;1              ;1              ;2016           
+Birigui                                 ;18             ;DVD                           ;49             ;57             ;1              ;4              ;2017           
+Birigui                                 ;202            ;Tridimensional                ;1              ;1              ;1              ;1              ;2016           
+Birigui                                 ;24             ;CD-ROM                        ;21             ;26             ;1              ;1              ;2017           
+Birigui                                 ;26             ;Referência                    ;28             ;93             ;2              ;3              ;2016           
+Birigui                                 ;31             ;Normas                        ;11             ;20             ;0              ;0              ;2015           
+Birigui                                 ;4              ;Artigos                       ;10             ;0              ;9              ;0              ;2016           
+Birigui                                 ;7              ;TCC - Graduação               ;25             ;25             ;13             ;13             ;2016           
+Boituva                                 ;1              ;Livros                        ;358            ;881            ;0              ;0              ;2015           
+Boituva                                 ;25             ;CD                            ;1              ;10             ;0              ;0              ;2015           
+Boituva                                 ;26             ;Referência                    ;9              ;15             ;1              ;4              ;2017           
+Bragança Paulista                       ;11             ;Gravação de som               ;1              ;1              ;1              ;1              ;2017           
+Bragança Paulista                       ;18             ;DVD                           ;8              ;23             ;0              ;0              ;2015           
+Bragança Paulista                       ;2              ;Folhetos                      ;5              ;5              ;3              ;3              ;2017           
+Bragança Paulista                       ;24             ;CD-ROM                        ;47             ;142            ;30             ;85             ;2016           
+Bragança Paulista                       ;25             ;CD                            ;8              ;17             ;3              ;9              ;2017           
+Bragança Paulista                       ;27             ;Relatórios                    ;1              ;1              ;1              ;1              ;2016           
+Bragança Paulista                       ;28             ;Evento / Anais                ;15             ;17             ;2              ;2              ;2017           
+Bragança Paulista                       ;5              ;Apostila                      ;16             ;16             ;9              ;9              ;2017           
+Campinas                                ;1              ;Livros                        ;205            ;1003           ;0              ;0              ;2015           
+Campinas                                ;11             ;Gravação de som               ;55             ;66             ;39             ;50             ;2017           
+Campinas                                ;18             ;DVD                           ;2              ;3              ;               ;               ;2017           
+Campinas                                ;24             ;CD-ROM                        ;8              ;13             ;               ;               ;2017           
+Campos do Jordão                        ;1              ;Livros                        ;24             ;112            ;0              ;0              ;2015           
+Campos do Jordão                        ;26             ;Referência                    ;8              ;22             ;8              ;22             ;2017           
+Capivari                                ;101            ;TFC (Trab.Final Curso Tecnico);77             ;51             ;77             ;51             ;2017           
+Capivari                                ;15             ;Periódicos                    ;23             ;381            ;21             ;246            ;2017           
+Capivari                                ;26             ;Referência                    ;17             ;38             ;7              ;15             ;2016           
+Caraguatatuba                           ;1              ;Livros                        ;2414           ;8610           ;0              ;0              ;2015           
+Caraguatatuba                           ;18             ;DVD                           ;3              ;9              ;0              ;0              ;2015           
+Caraguatatuba                           ;2              ;Folhetos                      ;3              ;13             ;1              ;1              ;2016           
+Caraguatatuba                           ;24             ;CD-ROM                        ;77             ;96             ;19             ;1              ;2017           
+Caraguatatuba                           ;27             ;Relatórios                    ;2              ;4              ;0              ;0              ;2015           
+Caraguatatuba                           ;3              ;Catálogo                      ;1              ;6              ;0              ;0              ;2016           
+Caraguatatuba                           ;5              ;Apostila                      ;2              ;2              ;               ;               ;2017           
+Caraguatatuba                           ;7              ;TCC - Graduação               ;68             ;31             ;17             ;1              ;2017           
+Catanduva                               ;1              ;Livros                        ;1366           ;5362           ;392            ;464            ;2017           
+Catanduva                               ;26             ;Referência                    ;5              ;29             ;               ;               ;2017           
+Cubatão                                 ;15             ;Periódicos                    ;1              ;5              ;1              ;5              ;2017           
+Cubatão                                 ;26             ;Referência                    ;3              ;6              ;1              ;1              ;2017           
+Cubatão                                 ;7              ;TCC - Graduação               ;273            ;273            ;273            ;273            ;2017           
+Guarulhos                               ;1              ;Livros                        ;2074           ;8598           ;213            ;297            ;2017           
+Guarulhos                               ;101            ;TFC (Trab.Final Curso Tecnico);16             ;16             ;11             ;11             ;2017           
+Guarulhos                               ;18             ;DVD                           ;1              ;2              ;               ;               ;2017           
+Guarulhos                               ;24             ;CD-ROM                        ;1              ;8              ;1              ;8              ;2016           
+Guarulhos                               ;25             ;CD                            ;1              ;1              ;               ;               ;2017           
+Guarulhos                               ;6              ;Dissertações                  ;1              ;1              ;1              ;1              ;2017           
+Hortolândia                             ;1              ;Livros                        ;305            ;1452           ;0              ;0              ;2015           
+Hortolândia                             ;15             ;Periódicos                    ;10             ;155            ;8              ;132            ;2016           
+Hortolândia                             ;24             ;CD-ROM                        ;6              ;24             ;               ;               ;2017           
+Hortolândia                             ;28             ;Evento / Anais                ;2              ;1              ;0              ;0              ;2015           
+Ilha Solteira                           ;1              ;Livros                        ;69             ;281            ;69             ;281            ;2017           
+Itapetininga                            ;1              ;Livros                        ;1308           ;6014           ;272            ;1025           ;2017           
+Itapetininga                            ;18             ;DVD                           ;16             ;20             ;0              ;0              ;2015           
+Itapetininga                            ;20             ;Braile                        ;7              ;7              ;0              ;0              ;2015           
+Itapetininga                            ;24             ;CD-ROM                        ;105            ;127            ;0              ;0              ;2016           
+Itapetininga                            ;25             ;CD                            ;1              ;1              ;               ;               ;2017           
+Itapetininga                            ;28             ;Evento / Anais                ;1              ;1              ;               ;               ;2017           
+Itapetininga                            ;30             ;Kit / Jogo                    ;1              ;10             ;0              ;0              ;2015           
+Itapetininga                            ;6              ;Dissertações                  ;2              ;2              ;0              ;0              ;2015           
+Itapetininga                            ;7              ;TCC - Graduação               ;12             ;10             ;0              ;0              ;2016           
+Itapetininga                            ;8              ;Livro eletrônico              ;3              ;3              ;1              ;1              ;2017           
+Jacarei                                 ;15             ;Periódicos                    ;5              ;49             ;5              ;48             ;2016           
+Jacarei                                 ;26             ;Referência                    ;18             ;75             ;5              ;39             ;2017           
+Jundiaí                                 ;1              ;Livros                        ;358            ;1088           ;241            ;650            ;2017           
+Matão                                   ;1              ;Livros                        ;336            ;2657           ;0              ;0              ;2015           
+Matão                                   ;10             ;TCCP - Pós-Graduação          ;23             ;23             ;6              ;6              ;2017           
+Matão                                   ;15             ;Periódicos                    ;42             ;503            ;14             ;180            ;2016           
+Matão                                   ;26             ;Referência                    ;4              ;23             ;               ;               ;2017           
+Matão                                   ;30             ;Kit / Jogo                    ;1              ;7              ;0              ;0              ;2015           
+Matão                                   ;6              ;Dissertações                  ;1              ;2              ;               ;               ;2017           
+Matão                                   ;9              ;Teses                         ;2              ;2              ;2              ;2              ;2016           
+Piracicaba                              ;1              ;Livros                        ;1199           ;3908           ;166            ;234            ;2017           
+Piracicaba                              ;26             ;Referência                    ;4              ;19             ;0              ;0              ;2015           
+Pirituba                                ;1              ;Livros                        ;108            ;109            ;108            ;109            ;2017           
+Presidente Epitácio                     ;1              ;Livros                        ;1662           ;4617           ;26             ;85             ;2017           
+Presidente Epitácio                     ;18             ;DVD                           ;2              ;5              ;0              ;0              ;2015           
+Presidente Epitácio                     ;24             ;CD-ROM                        ;6              ;16             ;0              ;0              ;2016           
+Presidente Epitácio                     ;25             ;CD                            ;3              ;4              ;               ;               ;2017           
+Presidente Epitácio                     ;30             ;Kit / Jogo                    ;3              ;3              ;3              ;3              ;2017           
+Registro                                ;15             ;Periódicos                    ;2              ;31             ;2              ;31             ;2017           
+Registro                                ;2              ;Folhetos                      ;3              ;4              ;3              ;4              ;2016           
+Registro                                ;26             ;Referência                    ;8              ;50             ;               ;               ;2017           
+Reitoria                                ;1              ;Livros                        ;5993           ;1              ;5992           ;0              ;2017           
+Salto                                   ;1              ;Livros                        ;1402           ;4733           ;108            ;149            ;2017           
+Salto                                   ;24             ;CD-ROM                        ;3              ;13             ;               ;               ;2017           
+Salto                                   ;7              ;TCC - Graduação               ;25             ;26             ;25             ;26             ;2017           
+São Carlos                              ;11             ;Gravação de som               ;1              ;0              ;0              ;0              ;2015           
+São Carlos                              ;18             ;DVD                           ;5              ;3              ;0              ;0              ;2015           
+São Carlos                              ;2              ;Folhetos                      ;1              ;1              ;0              ;0              ;2016           
+São Carlos                              ;24             ;CD-ROM                        ;39             ;1              ;8              ;1              ;2017           
+São Carlos                              ;26             ;Referência                    ;3              ;3              ;0              ;0              ;2015           
+São Carlos                              ;31             ;Normas                        ;4              ;4              ;0              ;0              ;2016           
+São Carlos                              ;9              ;Teses                         ;1              ;1              ;               ;               ;2017           
+São João Boa Vista                      ;22             ;Gravação de Vídeo             ;1              ;4              ;               ;               ;2017           
+São João Boa Vista                      ;26             ;Referência                    ;33             ;87             ;12             ;12             ;2017           
+São João da Boa Vista                   ;15             ;Periódicos                    ;18             ;261            ;0              ;0              ;2015           
+São João da Boa Vista                   ;22             ;Gravação de Vídeo             ;1              ;4              ;0              ;0              ;2015           
+São João da Boa Vista                   ;24             ;CD-ROM                        ;41             ;51             ;0              ;0              ;2015           
+São João da Boa Vista                   ;26             ;Referência                    ;18             ;62             ;0              ;0              ;2015           
+São José dos Campos                     ;1              ;Livros                        ;183            ;1539           ;0              ;0              ;2015           
+São José dos Campos                     ;15             ;Periódicos                    ;7              ;238            ;7              ;140            ;2017           
+São José dos Campos                     ;8              ;Livro eletrônico              ;1              ;1              ;1              ;1              ;2016           
+São Paulo                               ;1              ;Livros                        ;5267           ;25539          ;2174           ;7064           ;2017           
+São Paulo                               ;26             ;Referência                    ;93             ;352            ;0              ;0              ;2015           
+São Paulo                               ;6              ;Dissertações                  ;1              ;1              ;1              ;1              ;2017           
+São Roque                               ;12             ;Software                      ;6              ;16             ;0              ;0              ;2015           
+São Roque                               ;15             ;Periódicos                    ;5              ;68             ;4              ;55             ;2017           
+São Roque                               ;18             ;DVD                           ;39             ;70             ;0              ;0              ;2015           
+São Roque                               ;22             ;Gravação de Vídeo             ;1              ;2              ;0              ;0              ;2015           
+São Roque                               ;24             ;CD-ROM                        ;11             ;20             ;0              ;0              ;2016           
+São Roque                               ;25             ;CD                            ;2              ;2              ;               ;               ;2017           
+São Roque                               ;5              ;Apostila                      ;9              ;12             ;0              ;0              ;2015           
+São Roque                               ;6              ;Dissertações                  ;1              ;2              ;               ;               ;2017           
+Sertãozinho                             ;1              ;Livros                        ;3186           ;10196          ;639            ;2700           ;2016           
+Sertãozinho                             ;11             ;Gravação de som               ;1              ;1              ;               ;               ;2017           
+Sertãozinho                             ;24             ;CD-ROM                        ;1              ;1              ;1              ;1              ;2017           
+Sertãozinho                             ;3              ;Catálogo                      ;1              ;3              ;0              ;0              ;2015           
+Sertãozinho                             ;5              ;Apostila                      ;32             ;66             ;9              ;43             ;2016           
+Sertãozinho                             ;9              ;Teses                         ;50             ;76             ;19             ;38             ;2016           
+Sorocaba                                ;1              ;Livros                        ;1085           ;3399           ;623            ;1398           ;2017           
+Sorocaba                                ;17             ;Manual                        ;1              ;10             ;0              ;0              ;2016           
+Sorocaba                                ;26             ;Referência                    ;2              ;12             ;2              ;12             ;2016           
+Suzano                                  ;1              ;Livros                        ;1034           ;3847           ;369            ;920            ;2016           
+Suzano                                  ;101            ;TFC (Trab.Final Curso Tecnico);46             ;45             ;10             ;10             ;2017           
+Suzano                                  ;17             ;Manual                        ;1              ;1              ;0              ;0              ;2015           
+Suzano                                  ;18             ;DVD                           ;4              ;4              ;0              ;0              ;2016           
+Suzano                                  ;24             ;CD-ROM                        ;9              ;4              ;               ;               ;2017           
+Suzano                                  ;26             ;Referência                    ;6              ;14             ;0              ;0              ;2015           
+Suzano                                  ;4              ;Artigos                       ;20             ;0              ;7              ;0              ;2016           
+Suzano                                  ;7              ;TCC - Graduação               ;2              ;2              ;               ;               ;2017           
+Tupã                                    ;18             ;DVD                           ;5              ;5              ;5              ;5              ;2017           
+Votuporanga                             ;10             ;TCCP - Pós-Graduação          ;1              ;1              ;0              ;0              ;2015           
+Votuporanga                             ;101            ;TFC (Trab.Final Curso Tecnico);24             ;25             ;13             ;14             ;2016           
+Votuporanga                             ;18             ;DVD                           ;3              ;9              ;1              ;1              ;2017           
+Votuporanga                             ;26             ;Referência                    ;9              ;10             ;0              ;0              ;2015           
+Votuporanga                             ;6              ;Dissertações                  ;2              ;2              ;0              ;0              ;2015           
+Votuporanga                             ;9              ;Teses                         ;1              ;1              ;0              ;0              ;2016           
